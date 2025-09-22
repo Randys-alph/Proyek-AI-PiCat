@@ -24,6 +24,7 @@ Proyek ini terdiri dari tiga komponen utama yang dikembangkan secara terpisah. S
 | **Frontend Mobile** | Aplikasi mobile Android yang dibangun dengan Flutter. | [**[KLIK DI SINI]**](https://github.com/Randys-alph/picat_app) |
 | **Frontend Web** | Aplikasi web responsif yang dibangun dengan React.js. | [**[KLIK DI SINI]**](https://github.com/LidyaLaura/picat-web) |
 | **Backend & Model AI** | Server API dibangun dengan Python, sebagai model AI untuk prediksi genre. | [**[KLIK DI SINI]**](https://github.com/NvmberMan/Picat-Flask) |
+| **Desain UI/UX** | Wireframe & prototype untuk web maupun aplikasi yang dibuat dengan Figma. | [**[KLIK DI SINI]**](https://www.figma.com/proto/oyps3EWSTeJo8Z261CMDr9/AI?page-id=0%3A1&node-id=6-155&p=f&viewport=77%2C33%2C0.23&t=oMzGNfem3ZJD8CVT-1&scaling=contain&content-scaling=fixed&starting-point-node-id=6%3A155) |
 
 ---
 
@@ -56,7 +57,3 @@ Untuk menjalankan proyek ini secara keseluruhan, Anda perlu menjalankan setiap k
     4.  Jalankan aplikasi di emulator atau perangkat fisik: `flutter run`.
 
 ---
-
-## Aset & Dokumentasi Tambahan
-
-* **Desain UI/UX (Figma):** [**[KLIK DI SINI]**](https://www.figma.com/proto/oyps3EWSTeJo8Z261CMDr9/AI?page-id=0%3A1&node-id=6-155&p=f&viewport=77%2C33%2C0.23&t=oMzGNfem3ZJD8CVT-1&scaling=contain&content-scaling=fixed&starting-point-node-id=6%3A155)
